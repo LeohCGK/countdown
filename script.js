@@ -3,7 +3,7 @@ const horasEl = document.getElementById('horas');
 const minsEl = document.getElementById('mins');
 const secsEl = document.getElementById('secs');
 
-const AnoNovo = "1 Jan 2024";
+const AnoNovo = "1 Jan 2025";
 
 function countDown(){
     const AnoNovoData = new Date(AnoNovo);
